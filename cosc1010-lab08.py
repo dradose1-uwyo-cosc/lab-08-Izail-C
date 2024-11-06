@@ -1,8 +1,8 @@
-# Your Name Here
+# Izail Chamberlain
 # UWYO COSC 1010
-# Submission Date
-# Lab XX
-# Lab Section:
+# Submission Date: 11.5.24
+# Lab 08
+# Lab Section: 11
 # Sources, people worked with, help given to:
 # your
 # comments
